@@ -1,0 +1,9 @@
+tarea 
+ciclo for 
+pero mostrando numeros concecutivos 
+
+123
+456
+789
+
+etc

@@ -1,0 +1,7 @@
+secuencia de numeros de 0 a 9
+con los ciclos for,while y do-whilw
+
+secuencia de numeros de 2 en 2 hasta el 50
+n los ciclos for,while y do-whilw
+
+fibonacci tambien 
